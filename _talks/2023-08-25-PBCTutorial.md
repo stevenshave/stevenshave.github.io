@@ -11,5 +11,6 @@ location: "Kuopio University Hospital, Finland"
 Tutorial on the application of PyBindingCurve to simulate protein ligand binding at equilibrium.
 
 [PyBindingCurve documentation](https://stevenshave.github.io/pybindingcurve/)
+
 [PyBindingCurve repository](https://github.com/stevenshave/pybindingcurve)
 

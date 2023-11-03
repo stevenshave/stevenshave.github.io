@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/phenonautBEN
 venue: "Bioimaging Experts Network 2022"
-date: 2022-04-18
+date: 2022-5-19
 location: "GSK Stevenage"
 ---
 
