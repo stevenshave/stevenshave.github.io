@@ -1,3 +1,13 @@
+### From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery
+
+Miles McGibbon, <u>Steven Shave</u>, Jie Dong, Yumiao Gao, Douglas Houston, Jiancong Xie, Yuedong Yang, Philippe Schwaller, and Vincent Blay. "From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery". ACCEPTED in Briefings in Bioinformatics
+
+
+### OpenFEPOPS: A Python implementation of the FEPOPS molecular similarity technique
+
+Yan-Kai Chen, Douglas Houston, Manfred Auer, and <u>Steven Shave</u>, "OpenFEPOPS: A Python implementation of the FEPOPS molecular similarity technique", submitted to Journal of Open Source Software
+
+
 ### Evolution and impact of high content imaging
 
 Gregory Way, Heba Sailem, <u>Steven Shave</u>, Richard Kasprowicz, Neil Carragher, "Evolution and impact of high content imaging." Slas Discovery, 2023.
