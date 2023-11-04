@@ -36,19 +36,3 @@ Steven Shave, Manfred Auer, "SimilarityLab: molecular similarity for SAR explora
 <a href="{{site.url}}/files/publications/2021_SimilarityLab.pdf"><i class="fas fa-fw fa-file-pdf fa-xl" aria-hidden="true"></i></a>
 <a href="https://github.com/stevenshave/similaritylab"><i class="fab fa-fw fa-github zoom"></i></a>
 
-### Mrlogp: transfer learning enables accurate logp prediction using small experimental training datasets
-
-Yan-Kai Chen, Steven Shave, Manfred Auer, "Mrlogp: transfer learning enables accurate logp prediction using small experimental training datasets." Processes, 2021.
-
-<a href="https://www.mdpi.com/2227-9717/9/11/2029"><i class="fas fa-fw fa-link"></i></a>
-<a href="{{site.url}}/files/publications/2021_MRlogP.pdf"><i class="fas fa-fw fa-file-pdf fa-xl" aria-hidden="true"></i></a>
-<a href="https://github.com/JustinYKC/MRlogP"><i class="fab fa-fw fa-github zoom"></i></a>
-
-### PyBindingCurve, simulation, and curve fitting to complex binding systems at equilibrium
-
-Steven Shave, Yan-Kai Chen, Nhan Pham, Manfred Auer, "PyBindingCurve, simulation, and curve fitting to complex binding systems at equilibrium." Journal of Chemical Information and Modeling, 2021.
-
-<a href="https://pubs.acs.org/doi/10.1021/acs.jcim.1c00216"><i class="fas fa-fw fa-link"></i></a>
-<a href="{{site.url}}/files/publications/2021_PyBindingCurve.pdf"><i class="fas fa-fw fa-file-pdf fa-xl" aria-hidden="true"></i></a>
-<a href="https://github.com/stevenshave/pybindingcurve"><i class="fab fa-fw fa-github zoom"></i></a>
-
