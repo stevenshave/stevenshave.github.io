@@ -86,7 +86,7 @@ author:
   location         : "Edinburgh"
   employer         : "University of Edinburgh & GSK"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=steven+shave"
-  googlescholar    : "https://scholar.google.co.uk/citations?user=NSJvWmQAAAAJ&hl=en"
+  googlescholar    : https://scholar.google.co.uk/citations?user=NSJvWmQAAAAJ&hl=en
   email            : "s.shave@ed.ac.uk"
   researchgate     :  "https://www.researchgate.net/profile/S-Shave"
   uri              :
