@@ -1,14 +1,14 @@
-### Acepted: From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery
+### <u>Accepted: </u>From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery
 
 Miles McGibbon, <u>Steven Shave</u>, Jie Dong, Yumiao Gao, Douglas Houston, Jiancong Xie, Yuedong Yang, Philippe Schwaller, and Vincent Blay. "From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery". ACCEPTED in Briefings in Bioinformatics
 
 
-### Submitted: Revealing the Indispensable Role of the RFamide Functionality using a Novel Acid Labile Benzofuranone based Amine (ALBA) Linker
+### <u>Submitted: </u>Revealing the Indispensable Role of the RFamide Functionality using a Novel Acid Labile Benzofuranone based Amine (ALBA) Linker
 
 Gemma Mudd, Megan Hendrikse, <u>Steven Shave</u>, Douglas R Houston, Robert P Millar and Manfred Auer. "Revealing the Indispensable Role of the RFamide Functionality using a Novel Acid Labile Benzofuranone based Amine (ALBA) Linker." SUBMITTED to Helvetica Chemica Acta
 
 
-### Submitted: OpenFEPOPS: A Python implementation of the FEPOPS molecular similarity technique
+### <u>Submitted: </u>OpenFEPOPS: A Python implementation of the FEPOPS molecular similarity technique
 
 Yan-Kai Chen, Douglas Houston, Manfred Auer, and <u>Steven Shave</u>, "OpenFEPOPS: A Python implementation of the FEPOPS molecular similarity technique." SUBMITTED to Journal of Open Source Software
 
