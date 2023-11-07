@@ -1,7 +1,8 @@
-### <u>Accepted: </u>From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery
+### <a href="https://doi.org/10.1093/bib/bbad422"><u>Accepted: </u>From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery</a>
 
 Miles McGibbon, <u>Steven Shave</u>, Jie Dong, Yumiao Gao, Douglas Houston, Jiancong Xie, Yuedong Yang, Philippe Schwaller, and Vincent Blay. "From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery". ACCEPTED in Briefings in Bioinformatics
 
+<a href="https://doi.org/10.1093/bib/bbad422"><i class="fas fa-fw fa-link"></i></a>
 
 ### <u>Submitted: </u>Revealing the Indispensable Role of the RFamide Functionality using a Novel Acid Labile Benzofuranone based Amine (ALBA) Linker
 
