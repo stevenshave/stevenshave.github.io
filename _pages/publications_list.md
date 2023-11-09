@@ -1,18 +1,23 @@
-### <a href="https://doi.org/10.1093/bib/bbad422"><u>Accepted: </u>From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery</a>
-
-Miles McGibbon, <u>Steven Shave</u>, Jie Dong, Yumiao Gao, Douglas Houston, Jiancong Xie, Yuedong Yang, Philippe Schwaller, and Vincent Blay. "From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery". ACCEPTED in Briefings in Bioinformatics
-
-<a href="https://doi.org/10.1093/bib/bbad422"><i class="fas fa-fw fa-link"></i></a>
-
 ### <u>Submitted: </u>Revealing the Indispensable Role of the RFamide Functionality using a Novel Acid Labile Benzofuranone based Amine (ALBA) Linker
 
 Gemma Mudd, Megan Hendrikse, <u>Steven Shave</u>, Douglas R Houston, Robert P Millar and Manfred Auer. "Revealing the Indispensable Role of the RFamide Functionality using a Novel Acid Labile Benzofuranone based Amine (ALBA) Linker." SUBMITTED to Helvetica Chemica Acta
 
 
-### <u>Submitted: </u>OpenFEPOPS: A Python implementation of the FEPOPS molecular similarity technique
+### <a href="https://doi.org/10.1093/bib/bbad422"><u>Accepted: </u>From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery</a>
 
-Yan-Kai Chen, Douglas Houston, Manfred Auer, and <u>Steven Shave</u>, "OpenFEPOPS: A Python implementation of the FEPOPS molecular similarity technique." SUBMITTED to Journal of Open Source Software
+Miles McGibbon, <u>Steven Shave</u>, Jie Dong, Yumiao Gao, Douglas Houston, Jiancong Xie, Yuedong Yang, Philippe Schwaller, and Vincent Blay. "From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery". ACCEPTED in Briefings in Bioinformatics
 
+<a href="https://doi.org/10.1093/bib/bbad422"><i class="fas fa-fw fa-link"></i></a>
+<a href="https://doi.org/10.1093/bib/bbad422"><i class="fas fa-fw fa-newspaper"></i></a>
+
+### <a href="https://doi.org/10.21105/joss.05763">OpenFEPOPS: A Python implementation of the FEPOPS molecular similarity technique</a>
+
+Chen, Y., Houston, D. R., Auer, M., & <u>Shave, S.</u> (2023). OpenFEPOPS: A Python implementation of the FEPOPS molecular similarity technique. Journal of Open Source Software, 8(91), 5763. 
+
+<a href="https://doi.org/10.21105/joss.05763"><i class="fas fa-fw fa-link"></i></a>
+<a href="https://joss.theoj.org/papers/10.21105/joss.05763"><i class="fas fa-fw fa-newspaper"></i></a>
+<a href="{{site.url}}/files/publications/2023_OpenFEPOPS.pdf"><i class="fas fa-fw fa-file-pdf fa-xl" aria-hidden="true"></i></a>
+<a href="https://github.com/JustinYKC/FEPOPS"><i class="fab fa-fw fa-github zoom"></i></a>
 
 ### <a href="https://doi.org/10.1016/j.slasd.2023.08.009">Evolution and impact of high content imaging</a>
 
