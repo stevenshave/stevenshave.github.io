@@ -17,7 +17,7 @@ Reference: _Steven Shave, John Dawson, Abdullah Athar, Cuong Nguyen, Richard Kas
 
 <br>
 
-# PyBindingCurve
+## PyBindingCurve
 <img style="float: right;" src="../images/pybindingcurve_logo.png" width="250px">
 PyBindingCurve is a Python package for simulation, plotting and fitting of experimental parameters to protein-ligand binding systems at equilibrium. In simple terms, the most basic functionality allows simulation of a two species binding to each other as a function of their concentrations and the dissociation constant (KD) between the two species.
 
@@ -32,7 +32,7 @@ Reference: _Steven Shave, Yan-Kai Chen, Nhan Pham, Manfred Auer, "PyBindingCurve
 
 <br>
 
-# OpenFEPOPS
+## OpenFEPOPS
 <img style="float: right;" src="../images/OpenFEPOPS.png" width="500px">
 OpenFEPOPS is an open-source Python implementation of the FEature POint PharmacophoreS
 (FEPOPS) molecular similarity technique enabling descriptor generation, comparison, and ranking of molecules in virtual screening
@@ -54,7 +54,7 @@ Reference: _Chen, Y., Houston, D. R., Auer, M., & Shave, S. (2023). OpenFEPOPS: 
 
 <br>
 
-# smi2svg
+## smi2svg
 <img style="float: right;" src="../images/smi2svg.jpg" width="250px">
 
 A useful little web tool I built using WASM compiled RDKit to quickly visualise molecules from their SMILES strings, runs completely in the browser.
