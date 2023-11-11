@@ -13,6 +13,7 @@ Reference: _Steven Shave, John Dawson, Abdullah Athar, Cuong Nguyen, Richard Kas
 <a href="{{site.url}}/files/publications/2023_Phenonaut.pdf"><i class="fas fa-fw fa-file-pdf fa-xl" aria-hidden="true"></i></a>
 <a href="https://github.com/CarragherLab/phenonaut"><i class="fab fa-fw fa-github zoom"></i></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/1st-author-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/AI%2FML-blue">
 
 
 <br>
@@ -60,5 +61,7 @@ Reference: _Chen, Y., Houston, D. R., Auer, M., & Shave, S. (2023). OpenFEPOPS: 
 A useful little web tool I built using WASM compiled RDKit to quickly visualise molecules from their SMILES strings, runs completely in the browser.
 
 <a href="https://stevenshave.github.io/smi2svg/"><i class="fas fa-fw fa-link"></i> https://stevenshave.github.io/smi2svg/</a>
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Cheminformatics-purple">
 
 
