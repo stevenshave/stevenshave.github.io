@@ -54,7 +54,7 @@ Reference: _Chen, Y., Houston, D. R., Auer, M., & Shave, S. (2023). OpenFEPOPS: 
 
 <br>
 
-## smi2svg
+## Smi2Svg
 <img style="float: right;" src="../images/smi2svg.jpg" width="250px">
 
 A useful little web tool I built using WASM compiled RDKit to quickly visualise molecules from their SMILES strings, runs completely in the browser.
