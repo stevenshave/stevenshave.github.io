@@ -4,14 +4,15 @@ Gemma Mudd, Megan Hendrikse, <u>Steven Shave</u>, Douglas R Houston, Robert P Mi
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Cheminformatics-purple">
 
-### <a href="https://doi.org/10.1093/bib/bbad422"><u>Accepted: </u>From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery</a>
+### <a href="https://doi.org/10.1093/bib/bbad422">From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery</a>
 
 Miles McGibbon, <u>Steven Shave</u>, Jie Dong, Yumiao Gao, Douglas Houston, Jiancong Xie, Yuedong Yang, Philippe Schwaller, and Vincent Blay. "From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery". ACCEPTED in Briefings in Bioinformatics
 
 <a href="https://doi.org/10.1093/bib/bbad422"><i class="fas fa-fw fa-link"></i></a>
-<a href="https://doi.org/10.1093/bib/bbad422"><i class="fas fa-fw fa-newspaper"></i></a>
+<a href="https://academic.oup.com/bib/article/25/1/bbad422/7455245"><i class="fas fa-fw fa-newspaper"></i></a>
+<a href="{{site.url}}/files/publications/2023_From_Intuition_to_AI.pdf"><i class="fas fa-fw fa-file-pdf fa-xl" aria-hidden="true"></i></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/AI%2FML-blue">
-
+<img alt="Static Badge" src="https://img.shields.io/badge/Cheminformatics-purple">
 
 ### <a href="https://doi.org/10.21105/joss.05763">OpenFEPOPS: A Python implementation of the FEPOPS molecular similarity technique</a>
 
@@ -22,7 +23,7 @@ Chen, Y., Houston, D. R., Auer, M., & <u>Shave, S.</u> (2023). OpenFEPOPS: A Pyt
 <a href="{{site.url}}/files/publications/2023_OpenFEPOPS.pdf"><i class="fas fa-fw fa-file-pdf fa-xl" aria-hidden="true"></i></a>
 <a href="https://github.com/JustinYKC/FEPOPS"><i class="fab fa-fw fa-github zoom"></i></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/Last-author-green">
-
+<img alt="Static Badge" src="https://img.shields.io/badge/Cheminformatics-purple">
 
 ### <a href="https://doi.org/10.1016/j.slasd.2023.08.009">Evolution and impact of high content imaging</a>
 
@@ -43,7 +44,6 @@ Gregory Way, Heba Sailem, <u>Steven Shave</u>, Richard Kasprowicz, Neil Carraghe
 <a href="https://github.com/CarragherLab/phenonaut"><i class="fab fa-fw fa-github zoom"></i></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/1st-author-blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/AI%2FML-blue">
-
 
 ### <a href="https://doi.org/10.1021/acschembio.2c00004">Chemical interrogation of nuclear size identifies compounds with cancer cell line-specific effects on migration and invasion</a>
 
@@ -73,7 +73,7 @@ Sylvain Tollis, Andrea Rizzotto, Nhan Pham, Sonja Koivukoski, Aishwarya Sivakuma
 <a href="{{site.url}}/files/publications/2021_SimilarityLab.pdf"><i class="fas fa-fw fa-file-pdf fa-xl" aria-hidden="true"></i></a>
 <a href="https://github.com/stevenshave/similaritylab"><i class="fab fa-fw fa-github zoom"></i></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/1st-author-blue">
-
+<img alt="Static Badge" src="https://img.shields.io/badge/Cheminformatics-purple">
 
 ### <a href="https://doi.org/10.3390/pr9112029">Mrlogp: transfer learning enables accurate logp prediction using small experimental training datasets</a>
 
@@ -84,7 +84,7 @@ Yan-Kai Chen, <u>Steven Shave</u>, Manfred Auer, "Mrlogp: transfer learning enab
 <a href="{{site.url}}/files/publications/2021_MRlogP.pdf"><i class="fas fa-fw fa-file-pdf fa-xl" aria-hidden="true"></i></a>
 <a href="https://github.com/JustinYKC/MRlogP"><i class="fab fa-fw fa-github zoom"></i></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/AI%2FML-blue">
-
+<img alt="Static Badge" src="https://img.shields.io/badge/Cheminformatics-purple">
 
 ### <a href="https://doi.org/10.1021/acs.jcim.1c00216">PyBindingCurve, simulation, and curve fitting to complex binding systems at equilibrium</a>
 
@@ -130,7 +130,7 @@ Kennedy, Susan A., et al. "Extensive rewiring of the EGFR network in colorectal 
 <a href="https://pubs.acs.org/doi/full/10.1021/acsomega.7b02091"><i class="fas fa-fw fa-newspaper"></i></a>
 <a href="{{site.url}}/files/publications/2018_Diclofenac_KMO_via_molecular_similarity.pdf"><i class="fas fa-fw fa-file-pdf fa-xl" aria-hidden="true"></i></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/1st-author-blue">
-
+<img alt="Static Badge" src="https://img.shields.io/badge/Cheminformatics-purple">
 
 ### <a href="https://doi.org/10.1371/journal.pone.0193332">PuLSE: Quality control and quantification of peptide sequences explored by phage display libraries</a>
 
@@ -167,7 +167,7 @@ McNeil, Ewan M., Katy R. Astell, Ann-Marie Ritchie, <u>Steven Shave</u>, Douglas
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0116570"><i class="fas fa-fw fa-newspaper"></i></a>
 <a href="{{site.url}}/files/publications/2015_UFSRAT.pdf"><i class="fas fa-fw fa-file-pdf fa-xl" aria-hidden="true"></i></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/1st-author-blue">
-
+<img alt="Static Badge" src="https://img.shields.io/badge/Cheminformatics-purple">
 
 ### <a href="https://doi.org/10.1002/anie.201310240">Identification and X?ray co?crystal structure of a small?molecule activator of LFA?1?ICAM?1 binding</a>
 
@@ -195,7 +195,7 @@ MacGregor, P., Ivens, A., <u>Shave, S.</u>, Collie, I., Gray, D., Auer, M., & Ma
 <a href="https://pubs.acs.org/doi/full/10.1021/ci400371q"><i class="fas fa-fw fa-newspaper"></i></a>
 <a href="{{site.url}}/files/publications/2013_CSBBConeExclusion.pdf"><i class="fas fa-fw fa-file-pdf fa-xl" aria-hidden="true"></i></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/1st-author-blue">
-
+<img alt="Static Badge" src="https://img.shields.io/badge/Cheminformatics-purple">
 
 ### <a href="https://doi.org/10.1016/j.bcp.2013.02.002">11?-Hydroxysteroid dehydrogenase type 1 contributes to the balance between 7-keto-and 7-hydroxy-oxysterols in vivo</a>
 
@@ -241,5 +241,5 @@ Taylor, P., E. Blackburn, Y. G. Sheng, S. Harding, K?Y. Hsin, D. Kan, <u>S. Shav
 <a href="https://ieeexplore.ieee.org/abstract/document/5388649"><i class="fas fa-fw fa-newspaper"></i></a>
 <a href="{{site.url}}/files/publications/2008_Ligand_discovery_on_massively_parallel_systems.pdf"><i class="fas fa-fw fa-file-pdf fa-xl" aria-hidden="true"></i></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/1st-author-blue">
-
+<img alt="Static Badge" src="https://img.shields.io/badge/Cheminformatics-purple">
 
