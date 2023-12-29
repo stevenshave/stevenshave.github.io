@@ -12,7 +12,7 @@ Gemma Mudd, Megan Hendrikse, <u>Steven Shave</u>, Douglas R Houston, Robert P Mi
 
 ### <a href="https://doi.org/10.1093/bib/bbad422">From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery</a>
 
-Miles McGibbon, <u>Steven Shave</u>, Jie Dong, Yumiao Gao, Douglas Houston, Jiancong Xie, Yuedong Yang, Philippe Schwaller, and Vincent Blay. "From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery". ACCEPTED in Briefings in Bioinformatics
+Miles McGibbon, <u>Steven Shave</u>, Jie Dong, Yumiao Gao, Douglas Houston, Jiancong Xie, Yuedong Yang, Philippe Schwaller, and Vincent Blay. From intuition to AI: evolution of small molecule representations in drug discovery. Briefings in bioinformatics, 25(1), bbad422.
 
 <a href="https://doi.org/10.1093/bib/bbad422"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://academic.oup.com/bib/article/25/1/bbad422/7455245"><i class="fas fa-fw fa-newspaper"></i></a>
