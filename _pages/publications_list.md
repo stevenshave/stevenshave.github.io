@@ -1,3 +1,9 @@
+### <u>Submitted: </u>Repositioning Brusatol as a Transmission Blocker of the Malaria Parasite
+
+Amelia Cox, Neelima Krishnakutty, <u>Steven Shave</u>, Virginia Howick, Manfred Auer, James La Clair, Nisha Philip.  "Repositioning Brusatol as a Transmission Blocker of the Malaria Parasite". SUBMITTED to ACS Infectious Disesases
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Cheminformatics-purple">
+
 ### <u>Submitted: </u>Revealing the Indispensable Role of the RFamide Functionality using a Novel Acid Labile Benzofuranone based Amine (ALBA) Linker
 
 Gemma Mudd, Megan Hendrikse, <u>Steven Shave</u>, Douglas R Houston, Robert P Millar and Manfred Auer. "Revealing the Indispensable Role of the RFamide Functionality using a Novel Acid Labile Benzofuranone based Amine (ALBA) Linker." SUBMITTED to Helvetica Chemica Acta
