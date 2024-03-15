@@ -4,15 +4,17 @@ Amelia Cox, Neelima Krishnakutty, <u>Steven Shave</u>, Virginia Howick, Manfred 
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Cheminformatics-purple">
 
-### <u>Submitted: </u>Revealing the Indispensable Role of the RFamide Functionality using a Novel Acid Labile Benzofuranone based Amine (ALBA) Linker
+### <a href="https://doi.org/10.1002/hlca.202300204">Revealing the Indispensable Role of the RFamide Functionality using a Novel Acid Labile Benzofuranone based Amine (ALBA) Linker</a>
 
-Gemma Mudd, Megan Hendrikse, <u>Steven Shave</u>, Douglas R Houston, Robert P Millar and Manfred Auer. "Revealing the Indispensable Role of the RFamide Functionality using a Novel Acid Labile Benzofuranone based Amine (ALBA) Linker." SUBMITTED to Helvetica Chemica Acta
+Mudd, G., Hendrikse, M., <u>Shave, S.</u>, Houston, D., Millar, R., & Auer, M. Revealing the Indispensable Role of the RFamide Functionality using a Novel Acid Labile Benzofuranone based Amine (ALBA) Linker. Helvetica Chimica Acta, e202300204.
 
+<a href="https://doi.org/10.1002/hlca.202300204"><i class="fas fa-fw fa-link"></i></a>
+<a href="https://onlinelibrary.wiley.com/doi/10.1002/hlca.202300204"><i class="fas fa-fw fa-newspaper"></i></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/Cheminformatics-purple">
 
 ### <a href="https://doi.org/10.1093/bib/bbad422">From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery</a>
 
-Miles McGibbon, <u>Steven Shave</u>, Jie Dong, Yumiao Gao, Douglas Houston, Jiancong Xie, Yuedong Yang, Philippe Schwaller, and Vincent Blay. From intuition to AI: evolution of small molecule representations in drug discovery. Briefings in bioinformatics, 25(1), bbad422.
+Miles McGibbon, <u>Steven Shave</u>, Jie Dong, Yumiao Gao, Douglas Houston, Jiancong Xie, Yuedong Yang, Philippe Schwaller, and Vincent Blay. "From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery". ACCEPTED in Briefings in Bioinformatics
 
 <a href="https://doi.org/10.1093/bib/bbad422"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://academic.oup.com/bib/article/25/1/bbad422/7455245"><i class="fas fa-fw fa-newspaper"></i></a>
