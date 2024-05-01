@@ -1,3 +1,14 @@
+### <a href="https://arxiv.org/abs/2404.18960">Leak Proof CMap; a framework for training and evaluation of cell line agnostic L1000 similarity methods</a>
+
+<u>Shave, S.</u>, Kasprowicz, R., Athar, A.M., Vlachou, D., Carragher, N.O., & Nguyen, C.Q. (2024). Leak Proof CMap; a framework for training and evaluation of cell line agnostic L1000 similarity methods.
+
+<a href="https://arxiv.org/abs/2404.18960"><i class="fas fa-fw fa-link"></i></a>
+<a href="https://arxiv.org/abs/2404.18960"><i class="fas fa-fw fa-newspaper"></i></a>
+<a href="{{site.url}}/files/publications/2024_LeakProofCMap.pdf"><i class="fas fa-fw fa-file-pdf fa-xl" aria-hidden="true"></i></a>
+<a href="https://github.com/GSK-AI/leak-proof-cmap"><i class="fab fa-fw fa-github zoom"></i></a>
+<img alt="Static Badge" src="https://img.shields.io/badge/AI%2FML-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/1st-author-blue">
+
 ### <u>Submitted: </u>Repositioning Brusatol as a Transmission Blocker of the Malaria Parasite
 
 Amelia Cox, Neelima Krishnakutty, <u>Steven Shave</u>, Virginia Howick, Manfred Auer, James La Clair, Nisha Philip.  "Repositioning Brusatol as a Transmission Blocker of the Malaria Parasite". SUBMITTED to ACS Infectious Disesases
