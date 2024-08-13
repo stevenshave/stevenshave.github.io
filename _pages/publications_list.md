@@ -24,7 +24,7 @@ Amelia Cox, Neelima Krishnakutty, <u>Steven Shave</u>, Virginia Howick, Manfred 
 
 ### <a href="https://doi.org/10.1002/hlca.202300204">Revealing the Indispensable Role of the RFamide Functionality using a Novel Acid Labile Benzofuranone based Amine (ALBA) Linker</a>
 
-Mudd, G., Hendrikse, M., <u>Shave, S.</u>, Houston, D., Millar, R., & Auer, M. Revealing the Indispensable Role of the RFamide Functionality using a Novel Acid Labile Benzofuranone based Amine (ALBA) Linker. Helvetica Chimica Acta, e202300204.
+Mudd, G., Hendrikse, M., <u>Shave, S.</u>, Houston, D., Millar, R., & Auer, M. Revealing the Indispensable Role of the RFamide Functionality using a Novel Acid Labile Benzofuranone based Amine (ALBA) Linker.ï¿½Helvetica Chimica Acta, e202300204.
 
 <a href="https://doi.org/10.1002/hlca.202300204"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://onlinelibrary.wiley.com/doi/10.1002/hlca.202300204"><i class="fas fa-fw fa-newspaper"></i></a>
@@ -124,7 +124,7 @@ Yan-Kai Chen, <u>Steven Shave</u>, Manfred Auer, "Mrlogp: transfer learning enab
 
 ### <a href="https://doi.org/10.1039/D0CB00122H">A two-step resin based approach to reveal survivin-selective fluorescent probes</a>
 
-Ambrose, Andrew J., et al. "A two-step resin based approach to reveal survivin-selective fluorescent probes." RSC Chemical Biology 2.1 (2021): 181-186.
+Ambrose, Andrew J., et al. "A two-step resin based approach to reveal survivin-selective fluorescent probes."ï¿½RSC Chemical Biologyï¿½2.1 (2021): 181-186.
 
 <a href="https://doi.org/10.1039/D0CB00122H"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://pubs.rsc.org/en/content/articlehtml/2021/cb/d0cb00122h"><i class="fas fa-fw fa-newspaper"></i></a>
@@ -132,7 +132,7 @@ Ambrose, Andrew J., et al. "A two-step resin based approach to reveal survivin-s
 
 ### <a href="https://doi.org/10.3390/mps3030055">Quantitative microdialysis: experimental protocol and software for small molecule protein affinity determination and for exclusion of compounds with poor physicochemical properties</a>
 
-<u>Shave, Steven</u>, et al. "Quantitative microdialysis: experimental protocol and software for small molecule protein affinity determination and for exclusion of compounds with poor physicochemical properties." Methods and Protocols 3.3 (2020): 55.
+<u>Shave, Steven</u>, et al. "Quantitative microdialysis: experimental protocol and software for small molecule protein affinity determination and for exclusion of compounds with poor physicochemical properties."ï¿½Methods and Protocolsï¿½3.3 (2020): 55.
 
 <a href="https://doi.org/10.3390/mps3030055"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://www.mdpi.com/2409-9279/3/3/55"><i class="fas fa-fw fa-newspaper"></i></a>
@@ -142,7 +142,7 @@ Ambrose, Andrew J., et al. "A two-step resin based approach to reveal survivin-s
 
 ### <a href="https://doi.org/10.1038/s41467-019-14224-9">Extensive rewiring of the EGFR network in colorectal cancer cells expressing transforming levels of KRASG13D</a>
 
-Kennedy, Susan A., et al. "Extensive rewiring of the EGFR network in colorectal cancer cells expressing transforming levels of KRASG13D." Nature communications 11.1 (2020): 499.
+Kennedy, Susan A., et al. "Extensive rewiring of the EGFR network in colorectal cancer cells expressing transforming levels of KRASG13D."ï¿½Nature communicationsï¿½11.1 (2020): 499.
 
 <a href="https://doi.org/10.1038/s41467-019-14224-9"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://www.nature.com/articles/s41467-019-14224-9"><i class="fas fa-fw fa-newspaper"></i></a>
@@ -150,7 +150,7 @@ Kennedy, Susan A., et al. "Extensive rewiring of the EGFR network in colorectal 
 
 ### <a href="https://doi.org/10.1021/acsomega.7b02091">Diclofenac identified as a kynurenine 3-monooxygenase binder and inhibitor by molecular similarity techniques</a>
 
-<u>Shave, Steven</u>, et al. "Diclofenac identified as a kynurenine 3-monooxygenase binder and inhibitor by molecular similarity techniques." ACS omega 3.3 (2018): 2564-2568.
+<u>Shave, Steven</u>, et al. "Diclofenac identified as a kynurenine 3-monooxygenase binder and inhibitor by molecular similarity techniques."ï¿½ACS omegaï¿½3.3 (2018): 2564-2568.
 
 <a href="https://doi.org/10.1021/acsomega.7b02091"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://pubs.acs.org/doi/full/10.1021/acsomega.7b02091"><i class="fas fa-fw fa-newspaper"></i></a>
@@ -160,7 +160,7 @@ Kennedy, Susan A., et al. "Extensive rewiring of the EGFR network in colorectal 
 
 ### <a href="https://doi.org/10.1371/journal.pone.0193332">PuLSE: Quality control and quantification of peptide sequences explored by phage display libraries</a>
 
-<u>Shave, Steven</u>, et al. "PuLSE: Quality control and quantification of peptide sequences explored by phage display libraries." PLoS One 13.2 (2018): e0193332.
+<u>Shave, Steven</u>, et al. "PuLSE: Quality control and quantification of peptide sequences explored by phage display libraries."ï¿½PLoS Oneï¿½13.2 (2018): e0193332.
 
 <a href="https://doi.org/10.1371/journal.pone.0193332"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193332"><i class="fas fa-fw fa-newspaper"></i></a>
@@ -170,24 +170,24 @@ Kennedy, Susan A., et al. "Extensive rewiring of the EGFR network in colorectal 
 
 ### <a href="https://doi.org/10.1186/s12915-018-0554-z">Real-time tracking of complex ubiquitination cascades using a fluorescent confocal on-bead assay</a>
 
-Koszela, J., Pham, N. T., Evans, D., Mann, S., Perez-Pi, I., <u>Shave, S.</u>, ... & Auer, M. (2018). Real-time tracking of complex ubiquitination cascades using a fluorescent confocal on-bead assay. BMC biology, 16(1), 1-13.
+Koszela, J., Pham, N. T., Evans, D., Mann, S., Perez-Pi, I., <u>Shave, S.</u>, ... & Auer, M. (2018). Real-time tracking of complex ubiquitination cascades using a fluorescent confocal on-bead assay.ï¿½BMC biology,ï¿½16(1), 1-13.
 
 <a href="https://doi.org/10.1186/s12915-018-0554-z"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-018-0554-z"><i class="fas fa-fw fa-newspaper"></i></a>
 <a href="{{site.url}}/files/publications/2018_Realtime_tracking_of_ubiquitination_cascades.pdf"><i class="fas fa-fw fa-file-pdf fa-xl" aria-hidden="true"></i></a>
 
-### <a href="https://doi.org/10.1016/j.dnarep.2015.04.002">Inhibition of the ERCC1XPF structure-specific endonuclease to overcome cancer chemoresistance</a>
+### <a href="https://doi.org/10.1016/j.dnarep.2015.04.002">Inhibition of the ERCC1-XPF structure-specific endonuclease to overcome cancer chemoresistance</a>
 
-McNeil, Ewan M., Katy R. Astell, Ann-Marie Ritchie, <u>Steven Shave</u>, Douglas R. Houston, Preeti Bakrania, Hayley M. Jones et al. "Inhibition of the ERCC1XPF structure-specific endonuclease to overcome cancer chemoresistance." DNA repair 31 (2015): 19-28.
+McNeil, Ewan M., Katy R. Astell, Ann-Marie Ritchie, <u>Steven Shave</u>, Douglas R. Houston, Preeti Bakrania, Hayley M. Jones et al. "Inhibition of the ERCC1ï¿½XPF structure-specific endonuclease to overcome cancer chemoresistance."ï¿½DNA repairï¿½31 (2015): 19-28.
 
 <a href="https://doi.org/10.1016/j.dnarep.2015.04.002"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://www.sciencedirect.com/science/article/pii/S1568786415000865"><i class="fas fa-fw fa-newspaper"></i></a>
 <a href="{{site.url}}/files/publications/2015_Inhibition_ERCC1_XPF.pdf"><i class="fas fa-fw fa-file-pdf fa-xl" aria-hidden="true"></i></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/Cheminformatics-purple">
 
-### <a href="https://doi.org/10.1371/journal.pone.0116570">UFSRAT: ultra-fast shape recognition with atom typesthe discovery of novel bioactive small molecular scaffolds for FKBP12 and 11?HSD1</a>
+### <a href="https://doi.org/10.1371/journal.pone.0116570">UFSRAT: ultra-fast shape recognition with atom types; the discovery of novel bioactive small molecular scaffolds for FKBP12 and 11Î²HSD1</a>
 
-<u>Shave, S.</u>, Blackburn, E. A., Adie, J., Houston, D. R., Auer, M., Webster, S. P., ... & Walkinshaw, M. D. (2015). UFSRAT: ultra-fast shape recognition with atom typesthe discovery of novel bioactive small molecular scaffolds for FKBP12 and 11?HSD1. PLoS One, 10(2), e0116570.
+<u>Shave, S.</u>, Blackburn, E. A., Adie, J., Houston, D. R., Auer, M., Webster, S. P., ... & Walkinshaw, M. D. (2015). UFSRAT: ultra-fast shape recognition with atom typesï¿½the discovery of novel bioactive small molecular scaffolds for FKBP12 and 11?HSD1.ï¿½PLoS One,ï¿½10(2), e0116570.
 
 <a href="https://doi.org/10.1371/journal.pone.0116570"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0116570"><i class="fas fa-fw fa-newspaper"></i></a>
@@ -195,9 +195,9 @@ McNeil, Ewan M., Katy R. Astell, Ann-Marie Ritchie, <u>Steven Shave</u>, Douglas
 <img alt="Static Badge" src="https://img.shields.io/badge/1st-author-blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/Cheminformatics-purple">
 
-### <a href="https://doi.org/10.1002/anie.201310240">Identification and X?ray co?crystal structure of a small?molecule activator of LFA?1?ICAM?1 binding</a>
+### <a href="https://doi.org/10.1002/anie.201310240">Identification and X?ray co?crystal structure of a small molecule activator of LFA1-ICAM1 binding</a>
 
-Hintersteiner, Martin, Joerg Kallen, Mario Schmied, Christine Graf, Thomas Jung, Gemma Mudd, <u>Steven Shave</u>, Hubert Gstach, and Manfred Auer. "Identification and X?ray co?crystal structure of a small?molecule activator of LFA?1?ICAM?1 binding." Angewandte Chemie International Edition 53, no. 17 (2014): 4322-4326.
+Hintersteiner, Martin, Joerg Kallen, Mario Schmied, Christine Graf, Thomas Jung, Gemma Mudd, <u>Steven Shave</u>, Hubert Gstach, and Manfred Auer. "Identification and X?ray co?crystal structure of a small?molecule activator of LFA?1?ICAM?1 binding."ï¿½Angewandte Chemie International Editionï¿½53, no. 17 (2014): 4322-4326.
 
 <a href="https://doi.org/10.1002/anie.201310240"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201310240"><i class="fas fa-fw fa-newspaper"></i></a>
@@ -206,7 +206,7 @@ Hintersteiner, Martin, Joerg Kallen, Mario Schmied, Christine Graf, Thomas Jung,
 
 ### <a href="https://doi.org/10.1128/ec.00335-13">High-throughput chemical screening for antivirulence developmental phenotypes in Trypanosoma brucei</a>
 
-MacGregor, P., Ivens, A., <u>Shave, S.</u>, Collie, I., Gray, D., Auer, M., & Matthews, K. R. (2014). High-throughput chemical screening for antivirulence developmental phenotypes in Trypanosoma brucei. Eukaryotic Cell, 13(3), 412-426.
+MacGregor, P., Ivens, A., <u>Shave, S.</u>, Collie, I., Gray, D., Auer, M., & Matthews, K. R. (2014). High-throughput chemical screening for antivirulence developmental phenotypes in Trypanosoma brucei.ï¿½Eukaryotic Cell,ï¿½13(3), 412-426.
 
 <a href="https://doi.org/10.1128/ec.00335-13"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://journals.asm.org/doi/full/10.1128/ec.00335-13"><i class="fas fa-fw fa-newspaper"></i></a>
@@ -215,7 +215,7 @@ MacGregor, P., Ivens, A., <u>Shave, S.</u>, Collie, I., Gray, D., Auer, M., & Ma
 
 ### <a href="https://doi.org/10.1021/ci400371q">CSBB-ConeExclusion, adapting structure based solution virtual screening to libraries on solid support</a>
 
-<u>Shave, Steven</u>, and Manfred Auer. "CSBB-ConeExclusion, adapting structure based solution virtual screening to libraries on solid support." Journal of chemical information and modeling 53.12 (2013): 3156-3162.
+<u>Shave, Steven</u>, and Manfred Auer. "CSBB-ConeExclusion, adapting structure based solution virtual screening to libraries on solid support."ï¿½Journal of chemical information and modelingï¿½53.12 (2013): 3156-3162.
 
 <a href="https://doi.org/10.1021/ci400371q"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://pubs.acs.org/doi/full/10.1021/ci400371q"><i class="fas fa-fw fa-newspaper"></i></a>
@@ -223,9 +223,9 @@ MacGregor, P., Ivens, A., <u>Shave, S.</u>, Collie, I., Gray, D., Auer, M., & Ma
 <img alt="Static Badge" src="https://img.shields.io/badge/1st-author-blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/Cheminformatics-purple">
 
-### <a href="https://doi.org/10.1016/j.bcp.2013.02.002">11?-Hydroxysteroid dehydrogenase type 1 contributes to the balance between 7-keto-and 7-hydroxy-oxysterols in vivo</a>
+### <a href="https://doi.org/10.1016/j.bcp.2013.02.002">11Î²-Hydroxysteroid dehydrogenase type 1 contributes to the balance between 7-keto-and 7-hydroxy-oxysterols in vivo</a>
 
-Mitic, Tijana, <u>Steven Shave</u>, Nina Semjonous, Iain McNae, Diego F. Cobice, Gareth G. Lavery, Scott P. Webster, Patrick WF Hadoke, Brian R. Walker, and Ruth Andrew. "11?-Hydroxysteroid dehydrogenase type 1 contributes to the balance between 7-keto-and 7-hydroxy-oxysterols in vivo." Biochemical Pharmacology 86, no. 1 (2013): 146-153.
+Mitic, Tijana, <u>Steven Shave</u>, Nina Semjonous, Iain McNae, Diego F. Cobice, Gareth G. Lavery, Scott P. Webster, Patrick WF Hadoke, Brian R. Walker, and Ruth Andrew. "11?-Hydroxysteroid dehydrogenase type 1 contributes to the balance between 7-keto-and 7-hydroxy-oxysterols in vivo."ï¿½Biochemical Pharmacologyï¿½86, no. 1 (2013): 146-153.
 
 <a href="https://doi.org/10.1016/j.bcp.2013.02.002"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://www.sciencedirect.com/science/article/pii/S0006295213000889"><i class="fas fa-fw fa-newspaper"></i></a>
@@ -234,7 +234,7 @@ Mitic, Tijana, <u>Steven Shave</u>, Nina Semjonous, Iain McNae, Diego F. Cobice,
 
 ### <a href="https://doi.org/10.1186/1471-2105-13-S17-S4">Discovery of a new class of inhibitors for the protein arginine deiminase type 4 (PAD4) by structure-based virtual screening</a>
 
-Teo, C. Y., <u>Shave, S.</u>, Thean Chor, A. L., Salleh, A. B., Abdul Rahman, M. B. B., Walkinshaw, M. D., & Tejo, B. A. (2012, December). Discovery of a new class of inhibitors for the protein arginine deiminase type 4 (PAD4) by structure-based virtual screening. In BMC bioinformatics (Vol. 13, No. 17, pp. 1-13). BioMed Central.
+Teo, C. Y., <u>Shave, S.</u>, Thean Chor, A. L., Salleh, A. B., Abdul Rahman, M. B. B., Walkinshaw, M. D., & Tejo, B. A. (2012, December). Discovery of a new class of inhibitors for the protein arginine deiminase type 4 (PAD4) by structure-based virtual screening. Inï¿½BMC bioinformaticsï¿½(Vol. 13, No. 17, pp. 1-13). BioMed Central.
 
 <a href="https://doi.org/10.1186/1471-2105-13-S17-S4"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S17-S4"><i class="fas fa-fw fa-newspaper"></i></a>
@@ -243,7 +243,7 @@ Teo, C. Y., <u>Shave, S.</u>, Thean Chor, A. L., Salleh, A. B., Abdul Rahman, M.
 
 ### <a href="https://doi.org/10.1093/nar/gkq878">EDULISS: a small-molecule database with data-mining and pharmacophore searching capabilities</a>
 
-Hsin, K. Y., Morgan, H. P., <u>Shave, S.</u> R., Hinton, A. C., Taylor, P., & Walkinshaw, M. D. (2011). EDULISS: a small-molecule database with data-mining and pharmacophore searching capabilities. Nucleic acids research, 39(suppl_1), D1042-D1048.
+Hsin, K. Y., Morgan, H. P., <u>Shave, S.</u> R., Hinton, A. C., Taylor, P., & Walkinshaw, M. D. (2011). EDULISS: a small-molecule database with data-mining and pharmacophore searching capabilities.ï¿½Nucleic acids research,ï¿½39(suppl_1), D1042-D1048.
 
 <a href="https://doi.org/10.1093/nar/gkq878"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://academic.oup.com/nar/article/39/suppl_1/D1042/2508238"><i class="fas fa-fw fa-newspaper"></i></a>
@@ -252,7 +252,7 @@ Hsin, K. Y., Morgan, H. P., <u>Shave, S.</u> R., Hinton, A. C., Taylor, P., & Wa
 
 ### <a href="https://doi.org/10.1038/sj.bjp.0707532">Ligand discovery and virtual screening using the program LIDAEUS</a>
 
-Taylor, P., E. Blackburn, Y. G. Sheng, S. Harding, K?Y. Hsin, D. Kan, <u>S. Shave</u>, and M. D. Walkinshaw. "Ligand discovery and virtual screening using the program LIDAEUS." British journal of pharmacology 153, no. S1 (2008): S55-S67.
+Taylor, P., E. Blackburn, Y. G. Sheng, S. Harding, K?Y. Hsin, D. Kan, <u>S. Shave</u>, and M. D. Walkinshaw. "Ligand discovery and virtual screening using the program LIDAEUS."ï¿½British journal of pharmacologyï¿½153, no. S1 (2008): S55-S67.
 
 <a href="https://doi.org/10.1038/sj.bjp.0707532"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1038/sj.bjp.0707532"><i class="fas fa-fw fa-newspaper"></i></a>
@@ -261,7 +261,7 @@ Taylor, P., E. Blackburn, Y. G. Sheng, S. Harding, K?Y. Hsin, D. Kan, <u>S. Shav
 
 ### <a href="https://doi.org/10.1147/rd.521.0057">Ligand discovery on massively parallel systems</a>
 
-<u>Shave, S.</u> R., Taylor, P., Walkinshaw, M., Smith, L., Hardy, J., & Trew, A. (2008). Ligand discovery on massively parallel systems. IBM Journal of Research and Development, 52(1.2), 57-67.
+<u>Shave, S.</u> R., Taylor, P., Walkinshaw, M., Smith, L., Hardy, J., & Trew, A. (2008). Ligand discovery on massively parallel systems.ï¿½IBM Journal of Research and Development,ï¿½52(1.2), 57-67.
 
 <a href="https://doi.org/10.1147/rd.521.0057"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://ieeexplore.ieee.org/abstract/document/5388649"><i class="fas fa-fw fa-newspaper"></i></a>
