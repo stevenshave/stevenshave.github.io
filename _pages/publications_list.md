@@ -1,3 +1,10 @@
+### Cellular activity of the CQWW nullomer tetrapeptide
+
+<u>Shave, S.</u>, Isaksson, R., Pham, N.T., Elliott, R.J.R, Dawson, J.C., Soudant, J., Carragher, N.O., Auer, M. (2024). Cellular activity of the CQWW nullomer tetrapeptide
+
+<img alt="Static Badge" src="https://img.shields.io/badge/1st-author-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Cheminformatics-purple">
+
 ### <a href="https://arxiv.org/abs/2404.18960">Leak Proof CMap; a framework for training and evaluation of cell line agnostic L1000 similarity methods</a>
 
 <u>Shave, S.</u>, Kasprowicz, R., Athar, A.M., Vlachou, D., Carragher, N.O., & Nguyen, C.Q. (2024). Leak Proof CMap; a framework for training and evaluation of cell line agnostic L1000 similarity methods.
@@ -11,7 +18,7 @@
 
 ### <u>Submitted: </u>Repositioning Brusatol as a Transmission Blocker of the Malaria Parasite
 
-Amelia Cox, Neelima Krishnakutty, <u>Steven Shave</u>, Virginia Howick, Manfred Auer, James La Clair, Nisha Philip.  "Repositioning Brusatol as a Transmission Blocker of the Malaria Parasite". SUBMITTED to ACS Infectious Disesases
+Amelia Cox, Neelima Krishnakutty, <u>Steven Shave</u>, Virginia Howick, Manfred Auer, James La Clair, Nisha Philip.  "Repositioning Brusatol as a Transmission Blocker of the Malaria Parasite". Submitted to ACS Infectious diseases, addressing reviewer comments.
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Cheminformatics-purple">
 
