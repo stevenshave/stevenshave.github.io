@@ -1,6 +1,6 @@
-### Cellular activity of the CQWW nullomer tetrapeptide
+### <u>Submitted: </u>Cellular activity of the CQWW nullomer tetrapeptide
 
-<u>Shave, S.</u>, Isaksson, R., Pham, N.T., Elliott, R.J.R, Dawson, J.C., Soudant, J., Carragher, N.O., Auer, M. (2024). Cellular activity of the CQWW nullomer tetrapeptide
+<u>Shave, S.</u>, Isaksson, R., Pham, N.T., Elliott, R.J.R, Dawson, J.C., Soudant, J., Carragher, N.O., Auer, M. (2024). Cellular activity of the CQWW nullomer tetrapeptide. Submitted to ACS Omega.
 
 <img alt="Static Badge" src="https://img.shields.io/badge/1st-author-blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/Cheminformatics-purple">
