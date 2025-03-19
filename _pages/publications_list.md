@@ -1,7 +1,10 @@
-### <u>Submitted: </u>Cellular activity of the CQWW nullomer tetrapeptide
+### <a href="https://doi.org/10.1021/acsomega.4c08860">Cellular activity of the CQWW nullomer tetrapeptide</a>
 
 <u>Shave, S.</u>, Isaksson, R., Pham, N.T., Elliott, R.J.R, Dawson, J.C., Soudant, J., Carragher, N.O., Auer, M. (2024). Cellular activity of the CQWW nullomer tetrapeptide. Submitted to ACS Omega.
 
+<a href="https://doi.org/10.1021/acsomega.4c08860"><i class="fas fa-fw fa-link"></i></a>
+<a href="https://pubs.acs.org/doi/10.1021/acsomega.4c08860"><i class="fas fa-fw fa-newspaper"></i></a>
+<a href="{{site.url}}/files/publications/2024_Nullomers.pdf"><i class="fas fa-fw fa-file-pdf fa-xl" aria-hidden="true"></i></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/1st-author-blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/Cheminformatics-purple">
 
@@ -16,10 +19,13 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/AI%2FML-blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/1st-author-blue">
 
-### <u>Submitted: </u>Repositioning Brusatol as a Transmission Blocker of the Malaria Parasite
+### <a href="https://doi.org/10.1021/acsinfecdis.4c00434">Repositioning Brusatol as a Transmission Blocker of the Malaria Parasite</a>
 
 Amelia Cox, Neelima Krishnakutty, <u>Steven Shave</u>, Virginia Howick, Manfred Auer, James La Clair, Nisha Philip.  "Repositioning Brusatol as a Transmission Blocker of the Malaria Parasite". Submitted to ACS Infectious diseases, addressing reviewer comments.
 
+<a href="https://doi.org/10.1021/acsinfecdis.4c00434"><i class="fas fa-fw fa-link"></i></a>
+<a href="https://pubs.acs.org/doi/10.1021/acsinfecdis.4c00434"><i class="fas fa-fw fa-newspaper"></i></a>
+<a href="{{site.url}}/files/publications/2024_Brusatol.pdf"><i class="fas fa-fw fa-file-pdf fa-xl" aria-hidden="true"></i></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/Cheminformatics-purple">
 
 ### <a href="https://doi.org/10.1002/hlca.202300204">Revealing the Indispensable Role of the RFamide Functionality using a Novel Acid Labile Benzofuranone based Amine (ALBA) Linker</a>
